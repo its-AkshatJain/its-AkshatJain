@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently pursuing B.Tech from MITS Gwalior<br>🌱 I specialize in MERN Stack Development and have hands-on experience with PostgreSQL<br>🎯 Solved 250+ coding problems on platforms like LeetCode and GeeksforGeeks, showcasing strong problem-solving skills in Data Structures and Algorithms<br>⚡ I am proficient in C, C++, Python, JavaScript, and various web development technologies<br>📫 Reach me at: akshatjain04042004@gmail.com<br>
+🔭 I’m currently pursuing B.Tech from MITS Gwalior<br>🌱 I specialize in MERN Stack Development and have hands-on experience with PostgreSQL<br>🎯 Solved 250+ coding problems on platforms like LeetCode and GeeksforGeeks, showcasing strong problem-solving skills in Data Structures and Algorithms<br>⚡ I am proficient in C, C++, Python, JavaScript, and various web development technologies<br>📫 Reach me at: akshat.jain.contact@gmail.com<br>
 
 
 ## 🌐 Socials:
